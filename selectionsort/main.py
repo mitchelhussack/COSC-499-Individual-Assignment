@@ -1,17 +1,16 @@
-def selectionSort(array, size):
-    for s in range(size):
-        min_idx = s
+# This is a sample Python script.
 
-        for i in range(s + 1, size):
-            if array[i] < array[min_idx]:
-                min_idx = i
-
-        (array[s], array[min_idx]) = (array[min_idx], array[s])
+# Press Shift+F10 to execute it or replace it with your code.
+# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-data = [7, 2, 1, 6]
-size = len(data)
-selectionSort(data, size)
+def print_hi(name):
+    # Use a breakpoint in the code line below to debug your script.
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
-print('\nSelection Sorted Array:')
-print(data)
+
+# Press the green button in the gutter to run the script.
+if __name__ == '__main__':
+    print_hi('PyCharm')
+
+# See PyCharm help at https://www.jetbrains.com/help/pycharm/
