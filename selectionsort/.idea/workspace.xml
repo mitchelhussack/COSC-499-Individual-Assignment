@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2053603-9674-41d7-b379-14f3feecf6ca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../bubblesort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bubblesort/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
