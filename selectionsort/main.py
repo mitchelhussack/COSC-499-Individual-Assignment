@@ -7,11 +7,4 @@ def selectionSort(array, size):
                 min_idx = i
 
         (array[s], array[min_idx]) = (array[min_idx], array[s])
-
-
-data = [7, 2, 1, 6]
-size = len(data)
-selectionSort(data, size)
-
-print('\nSelection Sorted Array:')
-print(data)
+    return array
