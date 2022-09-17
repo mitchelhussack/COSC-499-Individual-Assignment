@@ -1,5 +1,3 @@
-
-
 def bubbleSort(arr):
 
     n = len(arr)
@@ -13,8 +11,3 @@ def bubbleSort(arr):
     for i in range(len(arr)):
         arr2.append(arr[i])
     return arr2
-
-
-# arr = [2, 1, 10, 23]
-#
-# print(bubbleSort(arr))
